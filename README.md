@@ -8,4 +8,6 @@ The MNIST dataset has become a de facto standard for evaluating the performance 
 
 Despite its simplicity and relatively small size compared to other modern datasets, achieving high accuracy on the MNIST dataset is not an easy task. Many existing models struggle to achieve 100% accuracy on this dataset due to the inherent variability in the writing styles and the presence of noise in the images.
 
-However, with my advanced approach and careful model design, I have been able to achieve remarkable results, **reaching 100% accuracy on the testing set** of the MNIST dataset. This accomplishment surpasses the accuracy achieved by other commonly used models, demonstrating the effectiveness and robustness of my approach in achieving superior performance on this benchmark dataset.\
+![conf-matrix.png]
+
+However, with my advanced approach and careful model design, I have been able to achieve remarkable results, **reaching 100% accuracy on the testing set** of the MNIST dataset. This accomplishment surpasses the accuracy achieved by other commonly used models, demonstrating the effectiveness and robustness of my approach in achieving superior performance on this benchmark dataset.
